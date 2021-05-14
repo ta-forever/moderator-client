@@ -21,3 +21,6 @@ target/
 .idea/uiDesigner.xml
 .idea/inspectionProfiles/
 .idea/libraries
+
+build
+.gradle
